@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project analyzes customer churn patterns in the telecom industry using Python data analysis libraries.
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ## Tools Used
 - Python
